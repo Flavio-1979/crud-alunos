@@ -1,4 +1,4 @@
-﻿# Projeto crud-alunos
+﻿# Projeto PHP + ReactJS
 
 Backend
 
