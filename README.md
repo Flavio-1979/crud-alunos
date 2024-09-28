@@ -16,7 +16,7 @@ Extensões necessárias:
 - mysqlnd (para utilizar o MySQL)
 - libcurl (para utilizar o HTTP\CURLRequest library)
 
-Banco de dados
+Configuração do banco de dados:
 - Acesse a ferramenta MySQL Workbench.
 - Crie uma base de dados com o nome "db_aluno".
 - Defina o usuário a e senha de acesso.
