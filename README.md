@@ -7,6 +7,7 @@ IDE utilizada: PhpStorm 2024
 Pré-requisitos:
 - Composer 2.7.9
 - PHP versão 8.3.12 ou superior.
+- MySQL Workbench
 
 Extensões necessárias:
 - intl
@@ -15,8 +16,13 @@ Extensões necessárias:
 - mysqlnd (para utilizar o MySQL)
 - libcurl (para utilizar o HTTP\CURLRequest library)
 
+Banco de dados
+- Acesse a ferramenta MySQL Workbench.
+- Crie uma base de dados com o nome "db_aluno".
+- Defina o usuário a e senha de acesso.
+
 Como executar o projeto:
-- Acessar a pasta "backend".
+- Na ferramenta PhpStorm, abra um terminal e acesse a pasta "backend".
 - Acessar o arquivo ".env" e alterar os seguintes campos de acordo com os novos dados: database, username e password.
   - ![image](https://github.com/user-attachments/assets/2821788f-e020-4280-bf97-e9c4d2c53a23)
 
@@ -35,7 +41,7 @@ Pré-requisitos:
 - Node - 20.17.0 ou superior.
 
 Como executar o projeto:
-- Pelo terminal, acessar a pasta "frontendreact" e executar:
+- Na ferramenta VS Code, abra um terminal e acesse a pasta "frontendreact". Execute os comandos:
   - npm install
   - npm run dev
 - A aplicação frontend será executada no browser de sua preferência.
