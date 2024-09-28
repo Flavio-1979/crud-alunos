@@ -18,7 +18,7 @@ Extensões necessárias:
 Como executar o projeto:
 - Acessar a pasta "backend".
 - Acessar o arquivo ".env" e alterar os seguintes campos de acordo com os novos dados: database, username e password.
-![image](https://github.com/user-attachments/assets/2821788f-e020-4280-bf97-e9c4d2c53a23)
+  - ![image](https://github.com/user-attachments/assets/2821788f-e020-4280-bf97-e9c4d2c53a23)
 
 - Pelo terminal, executar os comandos:
   - "composer install" para instalar as dependências dos pacotes de bibliotecas.
