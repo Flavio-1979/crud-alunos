@@ -24,6 +24,7 @@ Como executar o projeto:
   - "php spark serve" para executar a API.
 
 
+
 Frontend
 
 Pré-requisitos:
@@ -33,4 +34,4 @@ Como executar o projeto:
 - Acessar a pasta "frontend" pelo terminal executar:
   - npm install
   - npm run dev
-  - A aplicação frontend será executada no browser de sua preferência.
+A aplicação frontend será executada no browser de sua preferência.
