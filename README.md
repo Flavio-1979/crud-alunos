@@ -33,4 +33,4 @@ Como executar o projeto:
 - Acessar a pasta "frontend" pelo terminal executar:
   - npm install
   - npm run dev
-  A aplicação frontend será executada no browser de sua preferência.
+  - A aplicação frontend será executada no browser de sua preferência.
