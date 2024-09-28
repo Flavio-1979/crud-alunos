@@ -35,7 +35,7 @@ Pré-requisitos:
 - Node - 20.17.0 ou superior.
 
 Como executar o projeto:
-- Acessar a pasta "frontend" pelo terminal executar:
+- Acessar a pasta "frontendreact" pelo terminal executar:
   - npm install
   - npm run dev
 - A aplicação frontend será executada no browser de sua preferência.
