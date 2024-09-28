@@ -2,6 +2,8 @@
 
 Backend
 
+IDE utilizada: PhpStorm 2024
+
 Pré-requisitos:
 - Composer 2.7.9
 - PHP versão 8.3.12 ou superior.
@@ -26,6 +28,8 @@ Como executar o projeto:
 
 
 Frontend
+
+IDE utilizada: VS Code
 
 Pré-requisitos:
 - Node - 20.17.0 ou superior.
